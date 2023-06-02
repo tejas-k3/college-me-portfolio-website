@@ -1,0 +1,19 @@
+:root {
+    --mainColor:purple;
+    --secondaryColor:#db77dd;
+    
+    --borderColor:black;
+
+    --mainText:white; 
+    --secondaryText:#F0EAD9;
+
+    --themeDotBorder:#24292e;
+    
+    --previewBG:rgba(198, 144, 219, 0.8);
+    --previewShadow:rgb(102, 50, 102);
+
+    --btnColor:rgb(68, 18, 68);
+}
+a {
+    color:#C1E8FF;
+}

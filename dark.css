@@ -1,0 +1,22 @@
+:root {
+    --mainColor:black;
+    --secondaryColor:rgb(75, 69, 69);
+    
+    --borderColor:white;
+
+    --mainText:white; 
+    --secondaryText:rgb(213, 214, 214);
+
+    --themeDotBorder:black;
+    
+    --previewBG:rgba(36, 39, 39, 0.8);
+    --previewShadow:rgb(0, 0, 0);
+
+    --btnColor:white;
+}
+a {
+    color:skyblue;
+}
+#submit-btn {
+    color:black;
+}
